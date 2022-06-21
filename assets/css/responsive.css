@@ -1,0 +1,708 @@
+@media only screen and (max-width: 767px) {
+  .main-navbar .navbar-brand {
+    max-width: 100px;
+  }
+
+  .main-navbar.startup-nav {
+    border-bottom: 1px solid #af43be;
+    background-color: #af43be;
+  }
+
+  .main-navbar.personal-nav {
+    border-bottom: 1px solid #4b199c;
+    background-color: #4d19a2;
+  }
+
+  .default-btn {
+    padding: 10px 25px;
+    font-size: 14px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .pt-100 {
+    padding-top: 50px;
+  }
+
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+
+  .pt-70 {
+    padding-top: 30px;
+  }
+
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+
+  .section-title {
+    margin: 0 auto 30px;
+  }
+
+  .section-title span {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+
+  .section-title h2 {
+    font-size: 25px;
+  }
+
+  .screens-slider-area .screens-slider.owl-theme .owl-dots .owl-dot.active span {
+    width: 25px;
+  }
+
+  /* Plxswap App Responsive */
+  .main-navbar {
+    background-color: #13171e;
+  }
+
+  .main-navbar.app-nav .nav-btn {
+    margin-bottom: 8px;
+  }
+
+  .main-navbar.app-nav .nav-btn .bg-main {
+    background-color: #0083ff;
+    color: #ffffff;
+  }
+
+  .app-banner-area {
+    padding-bottom: 0;
+  }
+
+  .app-banner-area .app-bennr-text {
+    padding-top: 80px;
+  }
+
+  .app-banner-area .app-bennr-text span {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+
+  .app-banner-area .app-bennr-text h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  .app-banner-area .app-bennr-text p {
+    font-size: 15px;
+  }
+
+  .app-banner-area .app-bennr-text .app-text {
+    padding-left: 180px;
+    max-width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .app-banner-area .app-bennr-text .app-text h3 {
+    left: 40px;
+  }
+
+  .app-banner-area .app-bennr-text .app-shapes .shape-30 {
+    top: 40px;
+    left: -20px;
+    max-width: 100px;
+  }
+
+  .app-banner-area .bg-shape {
+    max-width: 150px;
+  }
+
+  .easy-step-area .easy-step-img {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .easy-step-area .easy-step-img .step-1 {
+    max-width: 200px;
+    border-radius: 33px;
+  }
+
+  .easy-step-area .easy-step-img .shape-1 {
+    max-width: 200px;
+    top: 0;
+    left: -15px;
+  }
+
+  .easy-step-area .easy-step-img .shape-21 {
+    right: 20px;
+    max-width: 100px;
+    bottom: 0;
+  }
+
+  .perfect-area .section-title h2 {
+    font-size: 30px;
+  }
+
+  .perfect-area .perfect-img {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .perfect-area .perfect-img .perfect-1 {
+    max-width: 280px;
+    border-radius: 43px;
+  }
+
+  .perfect-area .perfect-img .perfect-shape {
+    left: -50px;
+    max-width: 200px;
+  }
+
+  .perfect-area .perfect-card h3 {
+    font-size: 20px;
+  }
+
+  .app-features-area {
+    padding: 50px 0;
+  }
+
+  .app-features-area .app-features-img {
+    margin-bottom: 140px;
+  }
+
+  .app-features-area .app-features-img .mr-3,
+  .app-features-area .app-features-img .mx-3 {
+    margin-bottom: 20px;
+  }
+
+  .app-features-area .app-features {
+    max-width: 300px;
+  }
+
+  .clients-slider-two-area .clients-slider-two .slider-two-item {
+    padding: 20px 15px;
+  }
+
+  .clients-slider-two-area .clients-slider-two .slider-two-item img {
+    top: 25px;
+    right: 20px;
+  }
+
+  .clients-slider-two-area .clients-slider-two .slider-two-item .clients-icon {
+    bottom: 15px;
+    right: 25px;
+    font-size: 20px;
+  }
+
+  .footer-area .copyright-text {
+    padding: 10px 0;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .easy-step-area .easy-step-card {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
+
+  .easy-step-area .easy-step-card:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .easy-step-area .easy-step-card.left-text .step-signle-card {
+    margin-bottom: 15px;
+  }
+
+  .easy-step-area .easy-step-card.right-text .step-signle-card {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .app-banner-area .app-bennr-text .app-text {
+    padding-left: 150px;
+  }
+
+  /* Plxswap App Responsive */
+  .app-banner-area .app-bennr-text .app-text h3 {
+    font-size: 33px;
+    margin-bottom: 0;
+  }
+
+  .app-banner-area .app-bennr-text .app-text p {
+    line-height: 1.4;
+  }
+
+  .app-banner-area .app-bennr-text .app-shapes .shape-1 {
+    left: -210px;
+    max-width: 240px;
+  }
+
+  .powerful-area .powerful-img {
+    max-width: 300px;
+    margin: auto;
+  }
+
+  .easy-step-area .easy-step-img .step-1 {
+    max-width: 260px;
+    border-radius: 35px;
+  }
+
+  .our-service-card {
+    padding: 30px 18px;
+  }
+
+  .app-features-area .app-features-img {
+    margin-bottom: 135px;
+  }
+
+  .app-features-area .app-features-img .mr-3 {
+    margin-bottom: 0;
+  }
+
+  .app-features-area .app-features {
+    max-width: 300px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .clients-area .clients-slider .clients-slider-item .client-text {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .clients-area .clients-slider .clients-slider-item .client-text .text i {
+    display: none;
+  }
+
+  .clients-area .clients-slider .clients-slider-item .client-image {
+    margin: auto;
+  }
+
+  .clients-area .clients-slider.owl-theme .owl-nav {
+    position: initial;
+  }
+
+  .clients-area .clients-slider.owl-theme .owl-nav .owl-prev,
+  .clients-area .clients-slider.owl-theme .owl-nav .owl-next {
+    position: absolute;
+    bottom: 360px;
+    left: 0;
+  }
+
+  .clients-area .clients-slider.owl-theme .owl-nav .owl-prev.owl-next,
+  .clients-area .clients-slider.owl-theme .owl-nav .owl-next.owl-next {
+    left: auto;
+    right: 0;
+  }
+
+  .footer-area .copyright-text {
+    margin-top: 20px;
+  }
+
+  .pb-70 {
+    padding-bottom: 40px;
+  }
+
+  .case-study-card .caption {
+    padding: 45px 15px;
+  }
+
+  /* Plxswap Responsive */
+  .main-navbar.seo-nav .navbar-nav .nav-link {
+    margin: 0 10px;
+  }
+
+  .main-navbar.seo-nav .nav-btn .default-btn {
+    padding: 8px 20px;
+    font-size: 15px;
+  }
+
+  .ptb-100 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .pt-100 {
+    padding-top: 70px;
+  }
+
+  .pb-100 {
+    padding-bottom: 70px;
+  }
+
+  .pt-70 {
+    padding-top: 40px;
+  }
+
+  .main-navbar.personal-nav .navbar-nav .nav-link {
+    margin: 0 10px;
+  }
+
+  /* Plxswap App Responsive */
+  .main-navbar.app-nav {
+    background: #13171e;
+  }
+
+  .app-banner-area .bg-shape {
+    max-width: 200px;
+  }
+
+  .app-banner-area .app-bennr-text {
+    padding-top: 80px;
+  }
+
+  .app-banner-area .app-bennr-text .app-shapes .shape-30 {
+    max-width: 100px;
+  }
+
+  .app-banner-area .app-bennr-text span {
+    margin-bottom: 10px;
+  }
+
+  .app-banner-area .app-bennr-text h1 {
+    font-size: 46px;
+    margin-bottom: 20px;
+  }
+
+  .app-banner-area .app-bennr-text .app-shapes .shape-14 {
+    right: 50px;
+    bottom: 50px;
+  }
+
+  .easy-step-area .easy-step-img {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .easy-step-area .easy-step-img .shape-21 {
+    bottom: 0;
+  }
+
+  .perfect-area .perfect-img {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .app-features-area {
+    padding: 51px 0;
+  }
+
+  .app-features-area .app-features-img {
+    margin-bottom: 50px;
+  }
+
+  .app-features-area .app-features {
+    max-width: 400px;
+  }
+
+  .clients-slider-two-area .clients-slider-two .slider-two-item {
+    margin: 15px auto;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+  /* Plxswap App Responsive */
+  .app-banner-area {
+    padding-bottom: 100px;
+    padding-top: 200px;
+  }
+
+  .app-banner-area .app-bennr-text h1 {
+    font-size: 50px;
+    margin-bottom: 25px;
+  }
+
+  .app-banner-area .app-bennr-text .app-btn {
+    margin-top: 30px;
+  }
+
+  .app-banner-area .app-bennr-text .mt-30 {
+    margin-top: 10px;
+  }
+
+  .app-banner-area .bg-shape {
+    max-width: 250px;
+  }
+
+  .app-features-area {
+    padding: 100px 0;
+  }
+
+  .app-features-area .app-features {
+    max-width: 500px;
+  }
+
+  .clients-slider-two-area .clients-slider-two .slider-two-item {
+    margin: 15px auto;
+  }
+
+  .easy-step-area .easy-step-card .step-signle-card.step-p {
+    padding: 25px 20px;
+  }
+
+  .subscribe-area .subscribe-contant .subscrive-text h3 {
+    font-size: 30px;
+  }
+
+  .prising-card ul {
+    margin: 25px 0 0 25px;
+  }
+
+  .prising-card ul li {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.container-road {
+  max-width: 1400px;
+  margin: auto;
+  height: 100%;
+}
+
+.roadmap-wrapper {
+  height: auto;
+  width: 100%;
+}
+
+.row1 {
+  width: 100%;
+  display: grid;
+}
+
+.sec-title {
+  text-align: center;
+  position: relative;
+  width: auto;
+  margin-bottom: 100px;
+}
+
+.sec-title:after {
+  position: absolute;
+  content: "";
+  width: 50px;
+  height: 5px;
+  background: linear-gradient(to right, #973ef1, #3b37f9);
+  bottom: -20px;
+  left: 48%;
+}
+
+.row1 .roadmap {
+  display: flex;
+}
+
+.row1 .roadmap .year-count {
+  width: 20%;
+  background: rgba(205, 233, 255, 0.03);
+  height: auto;
+  border-right: 1px solid #a127ff;
+  position: relative;
+}
+
+.row1 .roadmap .roadmap-content {
+  width: 80%;
+}
+
+.row1 .roadmap .year-count h2 {
+  font-size: 80px;
+  color: #ffffff36;
+  transform: rotate(90deg) translateX(50px);
+}
+
+.row1 .roadmap .Y2022:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #a127ff);
+  top: 0;
+  left: 0;
+}
+
+.year-title h3 {
+  padding-left: 20px;
+  position: relative;
+}
+
+.year-title h3:before {
+  position: absolute;
+  content: "";
+  width: 60px;
+  height: 60px;
+  bottom: -31px;
+  left: 0px;
+  border-radius: 50%;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  border-right: 1px solid transparent;
+  border-left: 1px solid #a127ff;
+  transform: rotate(-45deg);
+}
+
+.year-title h3:after {
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  top: 30px;
+  left: -5px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #a127ff;
+}
+
+.year-title ul {
+  display: flex;
+  padding: 0;
+  margin-left: 30px;
+}
+
+.year-title ul li {
+  width: 25%;
+  list-style-type: none;
+  border-top: 1px solid #a127ff;
+  padding-left: 30px;
+  padding-top: 50px;
+  position: relative;
+}
+
+.year-title ul li:before {
+  position: absolute;
+  content: "";
+  width: 60px;
+  height: 60px;
+  top: 0px;
+  left: -30px;
+  border-radius: 50%;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  border-right: 1px solid transparent;
+  border-left: 1px solid #a127ff;
+  transform: rotate(-225deg);
+}
+
+.q1 ul li:after {
+  bottom: 35px;
+  left: 25px;
+}
+
+.q3 ul li:after {
+  top: 25px;
+  left: 25px;
+}
+
+.year-title ul li:after {
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  bottom: 60px;
+  left: 27px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #a127ff;
+}
+
+.year-title ul li:nth-last-child(1) {
+  border-top: 0px;
+}
+
+.q1 ul li:after {
+  top: 25px;
+  left: 25px;
+}
+
+.q2 ul li:after {
+  top: 25px;
+  left: 25px;
+}
+
+.first-list li:nth-child(1):after {
+  background-color: #a127ff;
+}
+
+.six-list li:nth-child(1):after {
+  background-color: #a127ff;
+}
+
+@media only screen and (max-width: 1220px) {
+  .q2 ul li:after {
+    top: 25px;
+    left: 25px;
+  }
+
+  .q4 ul li:after {
+    top: 25px;
+    left: 25px;
+  }
+}
+
+@media only screen and (max-width: 876px) {
+  .q1 ul li:after {
+    top: 25px;
+    left: 25px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .container-road {
+    max-width: 100vw;
+    margin: 0px 20px;
+  }
+
+  .row1 .roadmap {
+    display: grid;
+  }
+
+  .row1 .roadmap .year-count {
+    width: 100%;
+    text-align: center;
+    border-right: 0px solid transparent;
+  }
+
+  .row1 .roadmap .roadmap-content {
+    border-left: 1px solid #ffffff;
+  }
+
+  .row1 .roadmap .year-count h2 {
+    transform: rotate(0deg) translateX(0px) !important;
+  }
+
+  .year-title ul {
+    display: grid;
+  }
+
+  .year-title ul li {
+    border-top: 0px solid transparent;
+    border-left: 1px solid #ffffff;
+    width: 100%;
+  }
+
+  .year-title ul li:nth-last-child(1) {
+    border: 0px;
+  }
+
+  .q1-2022 ul li:after {
+    top: 25px;
+    left: 25px;
+  }
+
+  .row1 .roadmap .Y2022:before {
+    background: linear-gradient(to left, transparent, #ffffff);
+  }
+}
+
+.oval {
+  color: #a127ff;
+}
